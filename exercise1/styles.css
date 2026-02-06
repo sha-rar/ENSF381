@@ -33,6 +33,9 @@ body {
     color: inherit;
 }
 
+.box_text_color p {
+  color: white;
+}
 
 .td_image_cell {
     width: 570px;
