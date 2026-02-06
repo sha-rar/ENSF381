@@ -1,2 +1,2 @@
-# ENSF381
-A repository for ENSF 381.
+# ENSF381 Lab 02
+Branch for lab 02 (06 Feb 2026).
